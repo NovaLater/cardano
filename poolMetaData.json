@@ -3,5 +3,5 @@
 "description": "Keeping Cardano 100% DeCentralized!",
 "ticker": "RPAW2",
 "homepage": "http://www.rpawstakepools.com"
-"homepage": "https://raw.githubusercontent.com/NovaLater/cardano/main/extendedMetaData.json"
+"extended": "https://raw.githubusercontent.com/NovaLater/cardano/main/extendedMetaData.json"
 }
