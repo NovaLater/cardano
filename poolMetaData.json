@@ -1,7 +1,27 @@
 {
-"name": "RPAW2 ",
-"description": "Keeping Cardano 100% Decentralized!",
-"ticker": "RPAW2",
-"homepage": "http://www.rpawstakepools.com",
-"extended": "https://raw.githubusercontent.com/NovaLater/cardano/main/extendedMetaData.json"
+  "poolName": "myPool",
+  "poolOwner": [
+    {
+    "ownerName": "poolOwner",
+    "ownerWitness": "local"
+    }
+  ],
+  "poolRewards": "poolOwner",
+  "poolPledge": "1000000000",
+  "poolCost": "340000000",
+  "poolMargin": "0.099",
+  "poolRelays": [
+    {
+      "relayType": "dns",
+      "relayEntry": "relay1.rpawstakepools.com",
+      "relayPort": "3000"
+    }
+  ],
+  "poolMetaName": "Sassy Wear",
+  "poolMetaDescription": "The official stake pool of Sassy Wear",
+  "poolMetaTicker": "SASSY",
+  "poolMetaHomepage": "https://www.sassywear.io",
+  "poolMetaUrl": "https://bit.ly/3qtAu6k",
+  "poolExtendedMetaUrl": "https://bit.ly/3dofv11",
+  "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---"
 }
