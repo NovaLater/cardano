@@ -2,19 +2,16 @@
 	"info": {
 		"url_png_icon_64x64": "http(s) url to pool icon",
 		"url_png_logo": "http(s) url to pool logo",
-		"location": "Country, Continent",
-		"social": {
+			"social": {
 			"twitter_handle": "",
-			"telegram_handle": "",
-			"facebook_handle": "",
-			"youtube_handle": "",
-			"twitch_handle": "",
-			"discord_handle": "",
 			"github_handle": ""
-			},
+		},
+		"company": {
+			"name": "",
+			"vat_id": ""
+		},
 		"about": {
 			"me": "",
-			"server": "",
 			"company": ""
 		},
 		"rss": "http(s) url to valid RSS feed"
